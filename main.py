@@ -1,4 +1,4 @@
-#impoorted libraries for music player with a modern GUI
+#imported libraries for music player with a modern GUI
 import tkinter as tk
 import pygame
 import customtkinter
