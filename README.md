@@ -1,8 +1,11 @@
-Music Player
+# Music Player
 
 Description:
 
 This Python application creates a music player with a visually appealing interface using Tkinter and customtkinter. It allows users to play, pause, stop, navigate through songs, adjust volume, and view song information.
+
+![image](https://github.com/gappeah/Music-player/assets/114095068/0f831ccf-b556-4a01-88ca-150146d7b68f)
+
 
 Key Features:
 * Modern and user-friendly interface using customtkinter
